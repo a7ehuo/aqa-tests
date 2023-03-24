@@ -26,6 +26,8 @@
 
 # jdk_lang
 
+java/lang/Thread/virtual/stress/PinALot.java https://github.com/adoptium/aqa-tests/issues/1297 generic-all
+java/lang/Thread/virtual/stress/PinALot.java#id0 https://github.com/adoptium/aqa-tests/issues/1297 generic-all
 java/lang/annotation/AnnotationsInheritanceOrderRedefinitionTest.java https://github.com/adoptium/aqa-tests/issues/1297 generic-all
 java/lang/annotation/loaderLeak/Main.java https://github.com/eclipse-openj9/openj9/issues/6701 generic-all
 java/lang/annotation/LoaderLeakTest.java https://github.com/eclipse-openj9/openj9/issues/13201 generic-all
